@@ -1,0 +1,24 @@
+{
+  "name": "node-express-mysql",
+  "version": "1.0.0",
+  "description": "Node.js RESTFul APIs with Node.js ,  Express and MySQL Database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "MySQL",
+    "Database",
+    "RESTFul",
+    "APIs"
+  ],
+  "author": "Avan Parvadiya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
